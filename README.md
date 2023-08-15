@@ -9,5 +9,7 @@ The fun and easy project "Guess the Number" is a short Java project that allows 
 4. The game continues under the user guessing the number.
 5. The game also limits the number of attempts.
 
+ Video Link- https://youtu.be/Je6ytk-t3iY
+
 
 #Oasis Infobyte #Internship #java Development #number guessing game
